@@ -14,26 +14,26 @@
 <br/>
 
 <a href="https://">
-<img align="left" alt="Ashurov Nodir" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="center" alt="Ashurov Nodir" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://">
-<img align="left" alt="Ashurov Nodir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="center" alt="Ashurov Nodir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.youtube.com">
-<img align="left" alt="Ashurov Nodir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="center" alt="Ashurov Nodir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br />
 
-<br 
+ 
 
-<p align="right">
+
 Hi,I'm Ashurov Nodir from Uzbekistan🇺🇿  a Web Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 - 👯 Part of Developer Community.
 - 💬 I like challenges, better yet to overcome them, would you like to challenge me 💪
 - 📫 I am on few social media apps which those I provided links above 
 - 📝[Portfolio](https://)
-</p>
+
 
 
 **Languages and Tools:**
@@ -50,7 +50,7 @@ Hi,I'm Ashurov Nodir from Uzbekistan🇺🇿  a Web Developer and Cloud Enthusia
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
 
-*****https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg*****
+########*****https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg*****
 ***********https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg************
 ******https://cdn.worldvectorlogo.com/logos/django.svg*********
 *********https://www.vectorlogo.zone/logos/figma/figma-icon.svg********
@@ -60,7 +60,7 @@ Hi,I'm Ashurov Nodir from Uzbekistan🇺🇿  a Web Developer and Cloud Enthusia
 *******https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"**********
 *********https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg********
 ********https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg*******
-*********https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg***********
+*********https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg***********#########
 
 
 
