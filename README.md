@@ -5,7 +5,7 @@
 - 📫 How to reach me ... soon will be my website !
 - 🔭 I’m currently working on **various web projects**
 
-<h3 align="center">Hi,I'm Ashurov Nodir from Uzbekistan🇺🇿  a Web Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌n</h3>
+<h3 align="center">Hi,I'm Ashurov Nodir from Uzbekistan🇺🇿  a Web Developer and Cloud Enthusiast.<br/> Apart from that I love getting involved in Competitive Programming and Problem Solving.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
