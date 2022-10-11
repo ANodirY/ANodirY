@@ -5,7 +5,7 @@
 - 📫 How to reach me ... soon will be my website !
 - 🔭 I’m currently working on **various web projects**
 
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center">Hi,I'm Ashurov Nodir from Uzbekistan🇺🇿  a Web Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌n</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -24,10 +24,6 @@
 </a>
 <br />
 
- 
-
-
-Hi,I'm Ashurov Nodir from Uzbekistan🇺🇿  a Web Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 - 👯 Part of Developer Community.
 - 💬 I like challenges, better yet to overcome them, would you like to challenge me 💪
@@ -50,7 +46,7 @@ Hi,I'm Ashurov Nodir from Uzbekistan🇺🇿  a Web Developer and Cloud Enthusia
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
 
-########*****https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg*****
+<!--------*https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg*****
 ***********https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg************
 ******https://cdn.worldvectorlogo.com/logos/django.svg*********
 *********https://www.vectorlogo.zone/logos/figma/figma-icon.svg********
@@ -60,7 +56,7 @@ Hi,I'm Ashurov Nodir from Uzbekistan🇺🇿  a Web Developer and Cloud Enthusia
 *******https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"**********
 *********https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg********
 ********https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg*******
-*********https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg***********#########
+*********https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg------------>
 
 
 
