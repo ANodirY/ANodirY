@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @ANodirY
-- 👀 I’m interested in Building up Webapps and at my leisure time some fun games. i currently work with HTML5, CSS3, JS and Python.
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on Frontend and design of website, however i will definitely be able to complete Fullstack app, soon.
-- 📫 How to reach me ... soon will be my website !
-- 🔭 I’m currently working on **various web projects**
+
 
 <h3 align="center">Hi, I'm Ashurov Nodir from Uzbekistan🇺🇿 </h3><br/> <p align="center">Web Developer and Cloud Enthusiast. </br>Apart from that I love getting involved in Competitive Programming and Problem Solving.</p>
 
