@@ -1,4 +1,11 @@
-/Hello thre {red}{red}
+colorize <- function(x, color) {
+  if (knitr::is_latex_output()) {
+    sprintf("\\textcolor{%s}{%s}", color, x)
+  } else if (knitr::is_html_output()) {
+    sprintf("<span style='color: %s;'>%s</span>", color,
+      x)
+  } else x
+}
 
 <h3 align="center">Hi, I'm Ashurov Nodir from Uzbekistan🇺🇿 </h3><br/> <p align="center">Web Developer and Cloud Enthusiast. </br>Apart from that I love getting involved in Competitive Programming and Problem Solving.</p>
 
