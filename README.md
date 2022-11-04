@@ -1,5 +1,5 @@
 ```
-@@hello there
+- hello there
 ```
 
 <h3 align="center">Hi, I'm Ashurov Nodir from Uzbekistan🇺🇿 </h3><br/> <p align="center">Web Developer and Cloud Enthusiast. </br>Apart from that I love getting involved in Competitive Programming and Problem Solving.</p>
