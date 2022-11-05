@@ -23,7 +23,7 @@
 - 👯 Part of Developer Community.
 - 💬 I like challenges, better yet to overcome them, would you like to challenge me 💪
 - 📫 I am on few social media apps which those I provided links above 
-- 📝[Portfolio](https://ht)
+- 📝[Portfolio](https://)
 
 
 
